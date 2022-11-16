@@ -14,7 +14,7 @@
     <h3 class="mb-5">Наши статьи</h3>
     <div class="d-flex flex-wrap">
 
-        <?php for ($i = 0; $i < 5; $i++):
+        <?php for ($i = 0; $i < 3; $i++):
             ?>
 
                 <div class="card mb-4 rounded-3 shadow-sm">

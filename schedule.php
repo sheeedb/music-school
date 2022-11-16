@@ -10,14 +10,16 @@
 </head>
 <body>
 <?php require "blocks/header.php" ?>
-
+<center>
 <div class="container">
-    <div class="mb-5 v-card v-sheet theme--light">
+    <div class="mb-5 v-card v-sheet theme--light ">
         <header class="pa-2 v-sheet theme--dark v-toolbar primary" style="height: 64px;">
             <div class="v-toolbar__content" style="height: 64px;">
                 <strong>17.11.2022</strong>
             </div>
         </header>
+        </center>
+        <center>
         <div class="v-card__text">
             <div class="pa-5">
                 <div class="v-data-table elevation-1 border-table fs theme--light">
@@ -27,7 +29,7 @@
                                 <col class="">
                                 <col class="">
                             </colgroup>
-                            <thead class="v-data-table-header">
+                            <thead class="v-data-table-header ">
                             <tr>
                                 <th role="columnheader" scope="col" aria-label="Время" class="text-start" style="width: 20%; min-width: 20%;">
                                     <span>Время</span>
@@ -113,6 +115,7 @@
                 </div>
             </div>
         </div>
+        </center>
     </div>
 </div>
 </body>

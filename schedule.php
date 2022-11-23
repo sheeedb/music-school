@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
-    <title>PHP веб сайт</title>
+    <title>Расписание</title>
 </head>
 <body>
 <?php require "blocks/header.php" ?>
@@ -15,7 +15,7 @@
     <div class="mb-5 v-card v-sheet theme--light ">
         <header class="pa-2 v-sheet theme--dark v-toolbar primary" style="height: 64px;">
             <div class="v-toolbar__content" style="height: 64px;">
-                <strong>17.11.2022</strong>
+                <strong>01.12.2022</strong>
             </div>
         </header>
         </center>
@@ -45,18 +45,18 @@
                             <tbody>
                             <tr class="">
                                 <td class="text-start">13:50</td>
-                                <td class="text-start">Халява</td>
-                                <td class="text-start">226</td>
+                                <td class="text-start">Сольфеджио</td>
+                                <td class="text-start">102</td>
                             </tr>
                             <tr class="">
                                 <td class="text-start">15:50</td>
-                                <td class="text-start">Халява</td>
-                                <td class="text-start">226</td>
+                                <td class="text-start">Муз Литература</td>
+                                <td class="text-start">103</td>
                             </tr>
                             <tr class="">
                                 <td class="text-start">17:30</td>
-                                <td class="text-start">Халява</td>
-                                <td class="text-start">226</td>
+                                <td class="text-start">Хор</td>
+                                <td class="text-start">101</td>
                             </tr>
                             </tbody>
                         </table>
@@ -68,7 +68,7 @@
     <div class="mb-5 v-card v-sheet theme--light">
         <header class="pa-2 v-sheet theme--dark v-toolbar primary" style="height: 64px;">
             <div class="v-toolbar__content" style="height: 64px;">
-                <strong>18.11.2022</strong>
+                <strong>02.12.2022</strong>
             </div>
         </header>
         <div class="v-card__text">
@@ -96,18 +96,18 @@
                             <tbody>
                             <tr class="">
                                 <td class="text-start">13:50</td>
-                                <td class="text-start">Халява</td>
-                                <td class="text-start">226</td>
+                                <td class="text-start">Сольфеджио</td>
+                                <td class="text-start">102</td>
                             </tr>
                             <tr class="">
                                 <td class="text-start">15:50</td>
-                                <td class="text-start">Халява</td>
-                                <td class="text-start">226</td>
+                                <td class="text-start">Муз Литература</td>
+                                <td class="text-start">103</td>
                             </tr>
                             <tr class="">
                                 <td class="text-start">17:30</td>
-                                <td class="text-start">Халява</td
-                                ><td class="text-start">226</td>
+                                <td class="text-start">Хор</td>
+                                <td class="text-start">101</td>
                             </tr>
                             </tbody>
                         </table>

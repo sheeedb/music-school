@@ -1,7 +1,7 @@
 <footer class="container pt-4 my-md-5 pt-md-5 border-top">
     <div class="row">
         <div class="col-12 col-md">
-            <img src="img/6.jpg" class="img-thumbnail" alt="" width="150" height="150">
+            <img src="../img/fedya.jpg" class="img-thumbnail" alt="" width="150" height="150">
             <small class="d-block mb-3 text-muted">© 2017–2022</small>
         </div>
         <div class="col-6 col-md">

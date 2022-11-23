@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eaa1f4b-7259-4331-87d0-07cacb06ecb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjj/accordion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjj/balalaika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjj/guitar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjj/piano.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjj/ukulele.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/fedya.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.php" afterDir="false" />
     </list>
@@ -48,6 +58,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\jjj" />
+      <recent name="C:\xampp\htdocs" />
+      <recent name="C:\xampp\htdocs\blocks" />
+      <recent name="C:\xampp\htdocs\tools" />
       <recent name="C:\xampp\htdocs\img" />
     </key>
   </component>
@@ -61,10 +75,23 @@
       <updated>1668605951351</updated>
       <workItem from="1668605952603" duration="11916000" />
       <workItem from="1668619396359" duration="1127000" />
+      <workItem from="1668621287122" duration="182000" />
+      <workItem from="1669118163411" duration="7234000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

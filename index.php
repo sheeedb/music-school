@@ -36,10 +36,10 @@
             <div class="card-body">
                 <img src="img/2.jpg" class="img-thumbnail" alt="">
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Преподаватель: Ларионов Фёдор Викторович</li>
+                    <li>Преподаватель: Иванов Андрей Юрьевич</li>
                     <li>Занятия проходят во <strong>вторник</strong></li>
                     <li>Записаться на дополнительное занятие</li>
-                    <li><strong>8950071459</strong></li>
+                    <li><strong>89146546987</strong></li>
                 </ul>
                 <a class="btn btn-outline-primary" href="jjj/ukulele.php">История укулеле</a>
             </div>
@@ -89,7 +89,6 @@
                 <a class="btn btn-outline-primary" href="jjj/balalaika.php">История балалайки</a>
             </div>
         </div>
-
     </div>
 </div>
 <?php require "blocks/footer.php" ?>

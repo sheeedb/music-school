@@ -14,24 +14,21 @@
     <h3 class="mb-5">Наши статьи</h3>
     <div class="d-flex flex-wrap">
 
-
-
-                <div class="card mb-4 rounded-3 shadow-sm">
-                    <div class="card-header py-3">
-                        <h4 class="my-0 fw-normal">Гитара</h4>
-                    </div>
-                    <div class="card-body">
-                        <img src="img/1.jpg" class="img-thumbnail" alt="">
-                        <ul class="list-unstyled mt-3 mb-4">
-                            <li>Преподаватель: Иванов Андрей Юрьевич</li>
-                            <li>Занятия проходят в <strong>понедельник</strong></li>
-                            <li>Записаться на дополнительное занятие</li>
-                            <li><strong>89146546987</strong></li>
-                        </ul>
-                        <a class="btn btn-outline-primary" href="jjj/guitar.php">История гитары</a>
-                    </div>
-                </div>
-
+        <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-header py-3">
+                <h4 class="my-0 fw-normal">Гитара</h4>
+            </div>
+            <div class="card-body">
+                <img src="img/1.jpg" class="img-thumbnail" alt="">
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>Преподаватель: Иванов Андрей Юрьевич</li>
+                    <li>Занятия проходят в <strong>понедельник</strong></li>
+                    <li>Записаться на дополнительное занятие</li>
+                    <li><strong>89146546987</strong></li>
+                </ul>
+                <a class="btn btn-outline-primary" href="jjj/guitar.php">История гитары</a>
+            </div>
+        </div>
         <div class="card mb-4 rounded-3 shadow-sm">
             <div class="card-header py-3">
                 <h4 class="my-0 fw-normal">Укулеле</h4>
